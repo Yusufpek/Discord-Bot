@@ -16,8 +16,8 @@ bu sırada bize token adresi verildi.
 5-Ben komut kısmını beceremedim onun yerine direkt mesajda geçiyor ise o şekilde aldım ve komut gibi görünenlerin başına '!' (ünlem) 
 işareti koydum. 
 
-6-Benim if elif komutları ile verdiğim yeri dilediğiniz şekilde çoğaltabilirsiniz.
+6-Benim if-elif komutları ile verdiğim yeri dilediğiniz şekilde çoğaltabilirsiniz.
 
-7-Tüm işlemler bittiğinde kodunuzu çalıştırın program açık kaldığı süree yazılan mesajlara botunuz cevap verebilecektir.
+7-Tüm işlemler bittiğinde kodunuzu çalıştırın program açık kaldığı sürece yazılan mesajlara botunuz cevap verebilecektir.
 
 8-İyi günler iyi çalışmalar.
